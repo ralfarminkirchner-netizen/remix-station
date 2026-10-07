@@ -1,0 +1,651 @@
+{
+  "generatedAt": "2026-10-07T22:54:12.065Z",
+  "packs": [
+    {
+      "name": "AUDiOWERK Drums",
+      "color": "#f43f5e",
+      "samples": [
+        {
+          "id": "audiowerk-drums-clap-ericsneo-v2-wav",
+          "name": "Clap EricSneo V2",
+          "url": "/soundbank/AUDiOWERK%20Drums/Clap%20EricSneo%20V2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-clap-globuli-wav",
+          "name": "Clap Globuli",
+          "url": "/soundbank/AUDiOWERK%20Drums/Clap%20Globuli.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-clap-mentalism-1-wav",
+          "name": "Clap Mentalism 1",
+          "url": "/soundbank/AUDiOWERK%20Drums/Clap%20Mentalism%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-closedhh-ar70stight-v117-2-wav",
+          "name": "ClosedHH AR70sTight V117 2",
+          "url": "/soundbank/AUDiOWERK%20Drums/ClosedHH%20AR70sTight%20V117%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-closedhh-chromepl-2-wav",
+          "name": "ClosedHH ChromePl 2",
+          "url": "/soundbank/AUDiOWERK%20Drums/ClosedHH%20ChromePl%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-closedhh-clikdub-1-wav",
+          "name": "ClosedHH ClikDub 1",
+          "url": "/soundbank/AUDiOWERK%20Drums/ClosedHH%20ClikDub%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-closedhh-squid-wav",
+          "name": "ClosedHH Squid",
+          "url": "/soundbank/AUDiOWERK%20Drums/ClosedHH%20Squid.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-floor-tom-ar60searly-v24-1-wav",
+          "name": "Floor Tom AR60sEarly V24 1",
+          "url": "/soundbank/AUDiOWERK%20Drums/Floor%20Tom%20AR60sEarly%20V24%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-drums-kick-amontobin-2-wav",
+          "name": "Kick AmonTobin 2",
+          "url": "/soundbank/AUDiOWERK%20Drums/Kick%20AmonTobin%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-kick-onlythelow-wav",
+          "name": "Kick OnlyTheLow",
+          "url": "/soundbank/AUDiOWERK%20Drums/Kick%20OnlyTheLow.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-kick-orchperc-1-v2-wav",
+          "name": "Kick OrchPerc 1 V2",
+          "url": "/soundbank/AUDiOWERK%20Drums/Kick%20OrchPerc%201%20V2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-kick-somemart-wav",
+          "name": "Kick SomeMart",
+          "url": "/soundbank/AUDiOWERK%20Drums/Kick%20SomeMart.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-kick-zee-sub-wav",
+          "name": "Kick Zee Sub",
+          "url": "/soundbank/AUDiOWERK%20Drums/Kick%20Zee%20Sub.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-lowtom-phonoroom-wav",
+          "name": "LowTom Phonoroom",
+          "url": "/soundbank/AUDiOWERK%20Drums/LowTom%20Phonoroom.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-drums-ride-ar60slate-v98-3-wav",
+          "name": "Ride AR60sLate V98 3",
+          "url": "/soundbank/AUDiOWERK%20Drums/Ride%20AR60sLate%20V98%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "audiowerk-drums-ride-mk2-wav",
+          "name": "Ride MK2",
+          "url": "/soundbank/AUDiOWERK%20Drums/Ride%20MK2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "audiowerk-drums-ridebell-smallstick-wav",
+          "name": "RideBell SmallStick",
+          "url": "/soundbank/AUDiOWERK%20Drums/RideBell%20SmallStick.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "audiowerk-drums-snare-ar60searly-v65-2-wav",
+          "name": "Snare AR60sEarly V65 2",
+          "url": "/soundbank/AUDiOWERK%20Drums/Snare%20AR60sEarly%20V65%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-snare-funkc-1-wav",
+          "name": "Snare Funkc 1",
+          "url": "/soundbank/AUDiOWERK%20Drums/Snare%20Funkc%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-snare-quarter-1-wav",
+          "name": "Snare Quarter 1",
+          "url": "/soundbank/AUDiOWERK%20Drums/Snare%20Quarter%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-snare-sutekh-wav",
+          "name": "Snare Sutekh",
+          "url": "/soundbank/AUDiOWERK%20Drums/Snare%20Sutekh.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "audiowerk-drums-sweep-atomheart-wav",
+          "name": "Sweep AtomHeart",
+          "url": "/soundbank/AUDiOWERK%20Drums/Sweep%20AtomHeart.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        }
+      ]
+    },
+    {
+      "name": "AUDiOWERK FX",
+      "color": "#fb923c",
+      "samples": [
+        {
+          "id": "audiowerk-fx-china-studiogong-wav",
+          "name": "China StudioGong",
+          "url": "/soundbank/AUDiOWERK%20FX/China%20StudioGong.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-glitch-chardro-2-wav",
+          "name": "Glitch Chardro 2",
+          "url": "/soundbank/AUDiOWERK%20FX/Glitch%20Chardro%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-glitch-digibit-1-wav",
+          "name": "Glitch Digibit 1",
+          "url": "/soundbank/AUDiOWERK%20FX/Glitch%20Digibit%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-glitch-rolldice-wav",
+          "name": "Glitch RollDice",
+          "url": "/soundbank/AUDiOWERK%20FX/Glitch%20RollDice.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-metal-cloudmachine-3-wav",
+          "name": "Metal CloudMachine 3",
+          "url": "/soundbank/AUDiOWERK%20FX/Metal%20CloudMachine%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-metallic-materials-wav",
+          "name": "Metallic Materials",
+          "url": "/soundbank/AUDiOWERK%20FX/Metallic%20Materials.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-metallic-reducegong-wav",
+          "name": "Metallic ReduceGong",
+          "url": "/soundbank/AUDiOWERK%20FX/Metallic%20ReduceGong.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-sfx-electraflip-wav",
+          "name": "SFX ElectraFlip",
+          "url": "/soundbank/AUDiOWERK%20FX/SFX%20ElectraFlip.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-sfx-nustyle-2-wav",
+          "name": "SFX NuStyle 2",
+          "url": "/soundbank/AUDiOWERK%20FX/SFX%20NuStyle%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-sfx-offwall-4-wav",
+          "name": "SFX OffWall 4",
+          "url": "/soundbank/AUDiOWERK%20FX/SFX%20OffWall%204.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "audiowerk-fx-sfx-sutekh-4-wav",
+          "name": "SFX Sutekh 4",
+          "url": "/soundbank/AUDiOWERK%20FX/SFX%20Sutekh%204.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        }
+      ]
+    },
+    {
+      "name": "AUDiOWERK Keys Strings",
+      "color": "#facc15",
+      "samples": [
+        {
+          "id": "audiowerk-keys-strings-b3-basic-slow-eb1-2-wav",
+          "name": "B3 Basic Slow Eb1 2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/B3%20Basic%20Slow%20Eb1%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-b3-blues-slow-a2-wav",
+          "name": "B3 Blues Slow A2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/B3%20Blues%20Slow%20A2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-b3-blues-slow-gb1-2-wav",
+          "name": "B3 Blues Slow Gb1 2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/B3%20Blues%20Slow%20Gb1%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-clavinet-wah-bb2-wav",
+          "name": "Clavinet Wah Bb2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Clavinet%20Wah%20Bb2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-clavinet-wah-db5-wav",
+          "name": "Clavinet Wah Db5",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Clavinet%20Wah%20Db5.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-harpsichord-e4-2-wav",
+          "name": "Harpsichord E4 2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Harpsichord%20E4%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-harpsichord-g2-wav",
+          "name": "Harpsichord G2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Harpsichord%20G2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-piano-3-gb5-wav",
+          "name": "Piano 3 Gb5",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Piano%203%20Gb5.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-ssp-strings-stac-c0-2-wav",
+          "name": "SSP Strings Stac C0 2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/SSP%20Strings%20Stac%20C0%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-ssp-strings-sus-a0-wav",
+          "name": "SSP Strings Sus A0",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/SSP%20Strings%20Sus%20A0.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-ssp-strings-trem-c0-wav",
+          "name": "SSP Strings Trem C0",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/SSP%20Strings%20Trem%20C0.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-vintage-piano-1-gb1-wav",
+          "name": "Vintage Piano 1 Gb1",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Vintage%20Piano%201%20Gb1.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-vintagepiano2-d-4-2-wav",
+          "name": "VintagePiano2 D 4 2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/VintagePiano2%20D%204%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-vintagepiano4-c2-wav",
+          "name": "VintagePiano4 C2",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/VintagePiano4%20C2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-viola-pizzi-60-wav",
+          "name": "Viola Pizzi 60",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Viola%20Pizzi%2060.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "audiowerk-keys-strings-viola-susat-59-wav",
+          "name": "Viola SusAt 59",
+          "url": "/soundbank/AUDiOWERK%20Keys%20Strings/Viola%20SusAt%2059.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        }
+      ]
+    },
+    {
+      "name": "AUDiOWERK Percussion",
+      "color": "#4ade80",
+      "samples": [
+        {
+          "id": "audiowerk-percussion-bongo03-loop-130bpm-wav",
+          "name": "Bongo03 loop 130bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Bongo03%20loop%20130bpm.wav",
+          "type": "loop",
+          "bpm": 130,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-bongo05-loop-80bpm-wav",
+          "name": "Bongo05 loop 80bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Bongo05%20loop%2080bpm.wav",
+          "type": "loop",
+          "bpm": 80,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-conga-pushnpull-2-wav",
+          "name": "Conga PushNPull 2",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Conga%20PushNPull%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-conga02-loop-100bpm-wav",
+          "name": "Conga02 loop 100bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Conga02%20loop%20100bpm.wav",
+          "type": "loop",
+          "bpm": 100,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-darabuka01-loop-130bpm-wav",
+          "name": "Darabuka01 loop 130bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Darabuka01%20loop%20130bpm.wav",
+          "type": "loop",
+          "bpm": 130,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-darabuka02-loop-120bpm-wav",
+          "name": "Darabuka02 loop 120bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Darabuka02%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-djembe03-loop-100bpm-wav",
+          "name": "Djembe03 loop 100bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Djembe03%20loop%20100bpm.wav",
+          "type": "loop",
+          "bpm": 100,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-djembe05-loop-120bpm-wav",
+          "name": "Djembe05 loop 120bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Djembe05%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-djembe09-loop-120bpm-wav",
+          "name": "Djembe09 loop 120bpm",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Djembe09%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-lowbongo-3-v1-wav",
+          "name": "LowBongo 3 V1",
+          "url": "/soundbank/AUDiOWERK%20Percussion/LowBongo%203%20V1.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-lowconga-tribe-wav",
+          "name": "LowConga Tribe",
+          "url": "/soundbank/AUDiOWERK%20Percussion/LowConga%20Tribe.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-perc-pre-fade-1-wav",
+          "name": "Perc Pre Fade 1",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Perc%20Pre%20Fade%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-perc-strom-4-wav",
+          "name": "Perc Strom 4",
+          "url": "/soundbank/AUDiOWERK%20Percussion/Perc%20Strom%204.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "audiowerk-percussion-woodbllow-orchperc-v3-wav",
+          "name": "WoodBlLow OrchPerc V3",
+          "url": "/soundbank/AUDiOWERK%20Percussion/WoodBlLow%20OrchPerc%20V3.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        }
+      ]
+    },
+    {
+      "name": "Starter Pack",
+      "color": "#22d3ee",
+      "samples": [
+        {
+          "id": "starter-pack-bass-loop-120bpm-wav",
+          "name": "bass loop 120bpm",
+          "url": "/soundbank/Starter%20Pack/bass%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "bass"
+        },
+        {
+          "id": "starter-pack-chords-pad-loop-120bpm-wav",
+          "name": "chords pad loop 120bpm",
+          "url": "/soundbank/Starter%20Pack/chords%20pad%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "melody"
+        },
+        {
+          "id": "starter-pack-clap-wav",
+          "name": "clap",
+          "url": "/soundbank/Starter%20Pack/clap.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "starter-pack-closed-hat-wav",
+          "name": "closed hat",
+          "url": "/soundbank/Starter%20Pack/closed%20hat.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "starter-pack-fx-impact-wav",
+          "name": "fx impact",
+          "url": "/soundbank/Starter%20Pack/fx%20impact.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "starter-pack-fx-riser-wav",
+          "name": "fx riser",
+          "url": "/soundbank/Starter%20Pack/fx%20riser.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "starter-pack-hats-loop-120bpm-wav",
+          "name": "hats loop 120bpm",
+          "url": "/soundbank/Starter%20Pack/hats%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "drums"
+        },
+        {
+          "id": "starter-pack-kick-loop-120bpm-wav",
+          "name": "kick loop 120bpm",
+          "url": "/soundbank/Starter%20Pack/kick%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "drums"
+        },
+        {
+          "id": "starter-pack-kick-wav",
+          "name": "kick",
+          "url": "/soundbank/Starter%20Pack/kick.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "starter-pack-open-hat-wav",
+          "name": "open hat",
+          "url": "/soundbank/Starter%20Pack/open%20hat.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "starter-pack-perc-hit-wav",
+          "name": "perc hit",
+          "url": "/soundbank/Starter%20Pack/perc%20hit.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "starter-pack-perc-loop-120bpm-wav",
+          "name": "perc loop 120bpm",
+          "url": "/soundbank/Starter%20Pack/perc%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "perc"
+        },
+        {
+          "id": "starter-pack-snare-clap-loop-120bpm-wav",
+          "name": "snare clap loop 120bpm",
+          "url": "/soundbank/Starter%20Pack/snare%20clap%20loop%20120bpm.wav",
+          "type": "loop",
+          "bpm": 120,
+          "category": "drums"
+        },
+        {
+          "id": "starter-pack-snare-wav",
+          "name": "snare",
+          "url": "/soundbank/Starter%20Pack/snare.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        }
+      ]
+    }
+  ]
+}
