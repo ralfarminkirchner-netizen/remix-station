@@ -1,0 +1,308 @@
+{
+  "key": "D",
+  "mode": "minor",
+  "bpmNorm": 95,
+  "files": [
+    {
+      "file": "Mixed Choir D2 96bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 96,
+      "pc": 2
+    },
+    {
+      "file": "Vocal D2 Eee 96bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 96,
+      "pc": 2
+    },
+    {
+      "file": "ElectricBass2 C4 2 97bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 97,
+      "pc": 0
+    },
+    {
+      "file": "ElectricBass2 C4 97bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 97,
+      "pc": 0
+    },
+    {
+      "file": "Male Choir A 2 97bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 97,
+      "pc": 10
+    },
+    {
+      "file": "Jay Bass Lite V3 C1 2 98bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 98,
+      "pc": 0
+    },
+    {
+      "file": "SYNTH NitemareFluteChord 98bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 98,
+      "pc": 0
+    },
+    {
+      "file": "E Piano 1 C4 98bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 98,
+      "pc": 0
+    },
+    {
+      "file": "E Guitar Long C4 2 98bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 98,
+      "pc": 0
+    },
+    {
+      "file": "SubBass4 c7 2 99bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 99,
+      "pc": 0
+    },
+    {
+      "file": "Trash Guitar Long Bb1 2 99bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 99,
+      "pc": 10
+    },
+    {
+      "file": "Honky Piano C4 99bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 99,
+      "pc": 0
+    },
+    {
+      "file": "IF AcouGlitchChop 95 02 95bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 95,
+      "pc": null
+    },
+    {
+      "file": "SFX GalacticSoul 2 96bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 96,
+      "pc": null
+    },
+    {
+      "file": "IF AcouGlitchChop 95 13 96bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 96,
+      "pc": null
+    },
+    {
+      "file": "000 break kick.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Kick TSDrums 29.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "kick Kick Runzel Sub.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 102,
+      "pc": null
+    },
+    {
+      "file": "Tom Swinger.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "011 hh3snare1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Snare Thinking 4.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 101,
+      "pc": null
+    },
+    {
+      "file": "Snare UnSkool 3.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "FonTom African 1 V3.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "kick Kick XOR Sub.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 101,
+      "pc": null
+    },
+    {
+      "file": "hat OpenHH MmmKay.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum09 130 10.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 87,
+      "pc": null
+    },
+    {
+      "file": "perc MuteTri Dusty 2.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum19 130 63.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 102,
+      "pc": null
+    },
+    {
+      "file": "perc Vocal Dusty.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 80,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum33 128 12.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 89,
+      "pc": null
+    },
+    {
+      "file": "Bongo03 130 10.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "CrackBass C1.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 102,
+      "pc": 0
+    },
+    {
+      "file": "Chord EPnBass 8.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 91,
+      "pc": 0
+    },
+    {
+      "file": "Clavinet Wah F2.wav",
+      "role": "melody",
+      "kind": "oneshot",
+      "bpm": 79,
+      "pc": 5
+    },
+    {
+      "file": "OpenHH Absynth A 1.wav",
+      "role": "melody",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": 0
+    },
+    {
+      "file": "Lick Synth BounceArp 7.wav",
+      "role": "melody",
+      "kind": "oneshot",
+      "bpm": 88,
+      "pc": 2
+    },
+    {
+      "file": "E Piano 1 E6.wav",
+      "role": "melody",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": 5
+    },
+    {
+      "file": "Vocal Yeah 4.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 106,
+      "pc": 2
+    },
+    {
+      "file": "Vocal Hot.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 90,
+      "pc": 10
+    },
+    {
+      "file": "SFX ToThePan.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "SFX Crime 2.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "IF AcouGlitchChop 170 06.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "SFX Intramech.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    }
+  ]
+}

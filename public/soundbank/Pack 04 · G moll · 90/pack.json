@@ -1,0 +1,252 @@
+{
+  "key": "G",
+  "mode": "minor",
+  "bpmNorm": 90,
+  "files": [
+    {
+      "file": "CBass Pizzi 31 90bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 90,
+      "pc": 7
+    },
+    {
+      "file": "Lick Synth 90 7Mile 3 91bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 91,
+      "pc": 2
+    },
+    {
+      "file": "SYNTH AlphaJunoBloep 91bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 91,
+      "pc": 0
+    },
+    {
+      "file": "Vocal D4 AhhVib 92bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 92,
+      "pc": 2
+    },
+    {
+      "file": "PPGChoir c3 92bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 92,
+      "pc": 0
+    },
+    {
+      "file": "B3 Basic Fast C2 93bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 93,
+      "pc": 0
+    },
+    {
+      "file": "Kick QLounge 2 92bpm loop.wav",
+      "role": "drums",
+      "kind": "loop",
+      "bpm": 92,
+      "pc": null
+    },
+    {
+      "file": "RideBell Pop 94bpm loop.wav",
+      "role": "drums",
+      "kind": "loop",
+      "bpm": 94,
+      "pc": null
+    },
+    {
+      "file": "FX StepsOutOfDarkness 90bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 90,
+      "pc": null
+    },
+    {
+      "file": "Impact Flexer 92bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 92,
+      "pc": null
+    },
+    {
+      "file": "SFX Invertebrate 2 92bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 92,
+      "pc": null
+    },
+    {
+      "file": "Snare Central V5.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "hat ClosedHH LazerBeamz 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "FloorTom 909X.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 143,
+      "pc": null
+    },
+    {
+      "file": "Clap FullyCharged 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "jungle4kick2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Kick Morrison 3.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Kick LazerBeamz 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 90,
+      "pc": null
+    },
+    {
+      "file": "perc Tom PelleBuys 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "snare Snare Reggae.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 102,
+      "pc": null
+    },
+    {
+      "file": "kick Kick CLP 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc 0245 step sand.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 102,
+      "pc": null
+    },
+    {
+      "file": "perc Udu Indian 2 V2.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Conga03 100 10.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "perc Fifth Craftman.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 95,
+      "pc": null
+    },
+    {
+      "file": "perc Buzz Funkstorung B 1.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum35 128 11.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "Chord EPnBass 7.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 80,
+      "pc": 7
+    },
+    {
+      "file": "SubBass DaStreets.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 102,
+      "pc": 2
+    },
+    {
+      "file": "Vocal HitIt.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 124,
+      "pc": 0
+    },
+    {
+      "file": "Vocal Blam.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 127,
+      "pc": 9
+    },
+    {
+      "file": "SFX Workshop 3.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 88,
+      "pc": null
+    },
+    {
+      "file": "SFX LazerBeamz 1.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "Noise Nomad.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 98,
+      "pc": null
+    },
+    {
+      "file": "SFX Workshop 4.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 87,
+      "pc": null
+    }
+  ]
+}

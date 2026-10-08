@@ -1,0 +1,273 @@
+{
+  "key": "F#",
+  "mode": "major",
+  "bpmNorm": 105,
+  "files": [
+    {
+      "file": "SubBass3 f 2 105bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 6
+    },
+    {
+      "file": "Pre Bass Lite V3 A2 105bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 9
+    },
+    {
+      "file": "Piano 3 Gb0 2 105bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 6
+    },
+    {
+      "file": "Vox High Gb3 2 105bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 6
+    },
+    {
+      "file": "Vox High Eb2 2 105bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 3
+    },
+    {
+      "file": "Vox Low A5 105bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 9
+    },
+    {
+      "file": "Vox High Eb2 105bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 3
+    },
+    {
+      "file": "Vox Low A4 2 105bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": 9
+    },
+    {
+      "file": "WP TempleBell 110 02 109bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 109,
+      "pc": 11
+    },
+    {
+      "file": "Drum Break74(105BPM) 105bpm loop.wav",
+      "role": "drums",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "kick Kick Motherboard 2 105bpm loop.wav",
+      "role": "drums",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "Swell RiseNShineFX 1 105bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "Impact Tranceformer 2 105bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "SFX LazedOff 105bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "hat PedalHH AR70sOpen V65 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "hat RevOpenHH Propeller.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 68,
+      "pc": null
+    },
+    {
+      "file": "kick Kick Androgyny 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "kick Kick Asylum 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "snare Clap GrimeTime 3.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "kick Kick Together 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "kick Kick Shave 5.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Snare Subterra 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "hat ClosedHH 80sElectro 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "snare Snare Subterra 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Shaker RuggedNRaw 2.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 139,
+      "pc": null
+    },
+    {
+      "file": "perc Strike SmackIt 1.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum25 128 09.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc Conga Shuffle 3.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum01 130 38.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 98,
+      "pc": null
+    },
+    {
+      "file": "perc step wasser 2.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "MM Bass Amped Lite V1 F 3.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": 10
+    },
+    {
+      "file": "BassZap Gb1 Bonaparte.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 86,
+      "pc": 6
+    },
+    {
+      "file": "Vocal DogWord 5.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": 1
+    },
+    {
+      "file": "Vocal Fantasy.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 125,
+      "pc": 3
+    },
+    {
+      "file": "Glitch Liebing 1.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "SFX Eeprom 3.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 91,
+      "pc": null
+    },
+    {
+      "file": "SFX RiccoShot.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "SFX BounceUp.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    }
+  ]
+}

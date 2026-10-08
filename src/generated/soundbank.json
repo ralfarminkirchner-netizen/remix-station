@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:54:12.065Z",
+  "generatedAt": "2026-10-08T18:40:26.217Z",
   "packs": [
     {
       "name": "AUDiOWERK Drums",
@@ -530,8 +530,1582 @@
       ]
     },
     {
-      "name": "Starter Pack",
+      "name": "Pack 01 · E dur · 100",
       "color": "#22d3ee",
+      "samples": [
+        {
+          "id": "pack-01-e-dur-100-bell-deebounce-103bpm-loop-wav",
+          "name": "Bell DeeBounce 103bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Bell%20DeeBounce%20103bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 103,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-bitybass-a0-wav",
+          "name": "BityBass A0",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/BityBass%20A0.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-01-e-dur-100-clavinet-1-eb5-104bpm-loop-wav",
+          "name": "Clavinet 1 Eb5 104bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Clavinet%201%20Eb5%20104bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 104,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-clavinet-wah-a5-2-wav",
+          "name": "Clavinet Wah A5 2",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Clavinet%20Wah%20A5%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-dance-organ-a5-101bpm-loop-wav",
+          "name": "Dance Organ A5 101bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Dance%20Organ%20A5%20101bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 101,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-djembe12-100-10-wav",
+          "name": "Djembe12 100 10",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Djembe12%20100%2010.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-e-bass-slap-e1-101bpm-loop-wav",
+          "name": "E Bass Slap E1 101bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/E%20Bass%20Slap%20E1%20101bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 101,
+          "category": "bass"
+        },
+        {
+          "id": "pack-01-e-dur-100-electricbass1-a2-103bpm-loop-wav",
+          "name": "ElectricBass1 A2 103bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/ElectricBass1%20A2%20103bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 103,
+          "category": "bass"
+        },
+        {
+          "id": "pack-01-e-dur-100-electricbass2-eb3-104bpm-loop-wav",
+          "name": "ElectricBass2 Eb3 104bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/ElectricBass2%20Eb3%20104bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 104,
+          "category": "bass"
+        },
+        {
+          "id": "pack-01-e-dur-100-glitch-sutekh-8-wav",
+          "name": "Glitch Sutekh 8",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Glitch%20Sutekh%208.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-guitarpluck-g1-clp-wav",
+          "name": "GuitarPluck G1 CLP",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/GuitarPluck%20G1%20CLP.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "pack-01-e-dur-100-impact-transistor-11-wav",
+          "name": "Impact Transistor 11",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Impact%20Transistor%2011.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-01-e-dur-100-jay-bass-lite-v3-a1-103bpm-loop-wav",
+          "name": "Jay Bass Lite V3 A1 103bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Jay%20Bass%20Lite%20V3%20A1%20103bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 103,
+          "category": "bass"
+        },
+        {
+          "id": "pack-01-e-dur-100-kick-ar70sopen-v77-3-wav",
+          "name": "Kick AR70sOpen V77 3",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Kick%20AR70sOpen%20V77%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-kick-doe-1-wav",
+          "name": "Kick Doe 1",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Kick%20Doe%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-kick-junkzion-1-wav",
+          "name": "Kick Junkzion 1",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Kick%20Junkzion%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-kick-laxpert-3-wav",
+          "name": "Kick LAXpert 3",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Kick%20LAXpert%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-kick-winter-2-wav",
+          "name": "Kick Winter 2",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Kick%20Winter%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-mm-bass-lite-v1-d-2-wav",
+          "name": "MM Bass Lite V1 D 2",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/MM%20Bass%20Lite%20V1%20D%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-01-e-dur-100-mixed-choir-g-3-103bpm-loop-wav",
+          "name": "Mixed Choir G 3 103bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Mixed%20Choir%20G%203%20103bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 103,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-noise-chardro-1-wav",
+          "name": "Noise Chardro 1",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Noise%20Chardro%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-noise-tinmechs-102bpm-loop-wav",
+          "name": "Noise TinMechs 102bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Noise%20TinMechs%20102bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 102,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-sfx-scifipanel-102bpm-loop-wav",
+          "name": "SFX SciFiPanel 102bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/SFX%20SciFiPanel%20102bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 102,
+          "category": "fx"
+        },
+        {
+          "id": "pack-01-e-dur-100-sfx-sphaere-2-101bpm-loop-wav",
+          "name": "SFX Sphaere 2 101bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/SFX%20Sphaere%202%20101bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 101,
+          "category": "fx"
+        },
+        {
+          "id": "pack-01-e-dur-100-sfx-tinedown-2-wav",
+          "name": "SFX TineDown 2",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/SFX%20TineDown%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-01-e-dur-100-synth-bellishform2-104bpm-loop-wav",
+          "name": "SYNTH Bellishform2 104bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/SYNTH%20Bellishform2%20104bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 104,
+          "category": "melody"
+        },
+        {
+          "id": "pack-01-e-dur-100-shaker-junkzion-wav",
+          "name": "Shaker Junkzion",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Shaker%20Junkzion.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-shaker-zee-wav",
+          "name": "Shaker Zee",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Shaker%20Zee.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-tom-atticstore-104bpm-loop-wav",
+          "name": "Tom AtticStore 104bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Tom%20AtticStore%20104bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 104,
+          "category": "perc"
+        },
+        {
+          "id": "pack-01-e-dur-100-tom-gold-5-wav",
+          "name": "Tom Gold 5",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Tom%20Gold%205.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-01-e-dur-100-trash-guitar-long-add-wav",
+          "name": "Trash Guitar Long Add",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Trash%20Guitar%20Long%20Add.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-trash-guitar-long-d4-2-104bpm-loop-wav",
+          "name": "Trash Guitar Long D4 2 104bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Trash%20Guitar%20Long%20D4%202%20104bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 104,
+          "category": "misc"
+        },
+        {
+          "id": "pack-01-e-dur-100-vocal-e4-mi-wav",
+          "name": "Vocal E4 Mi",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Vocal%20E4%20Mi.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-01-e-dur-100-vocal-kittens-1-wav",
+          "name": "Vocal Kittens 1",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Vocal%20Kittens%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-01-e-dur-100-vocal-lalalalalala-100bpm-loop-wav",
+          "name": "Vocal LaLaLaLaLaLa 100bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/Vocal%20LaLaLaLaLaLa%20100bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 100,
+          "category": "vox"
+        },
+        {
+          "id": "pack-01-e-dur-100-hat-closedhh-bringit-2-wav",
+          "name": "hat ClosedHH BringIt 2",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/hat%20ClosedHH%20BringIt%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-kick-kick-ar60slate-v108-2-104bpm-loop-wav",
+          "name": "kick Kick AR60sLate V108 2 104bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/kick%20Kick%20AR60sLate%20V108%202%20104bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 104,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-perc-bend-sopranosax-wav",
+          "name": "perc Bend SopranoSax",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/perc%20Bend%20SopranoSax.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-01-e-dur-100-perc-dist-sharpturn-wav",
+          "name": "perc Dist SharpTurn",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/perc%20Dist%20SharpTurn.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-01-e-dur-100-perc-floortom-ar70stight-v54-2-103bpm-loop-wav",
+          "name": "perc FloorTom AR70sTight V54 2 103bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/perc%20FloorTom%20AR70sTight%20V54%202%20103bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 103,
+          "category": "perc"
+        },
+        {
+          "id": "pack-01-e-dur-100-perc-musicbox-c6-104bpm-loop-wav",
+          "name": "perc MusicBox C6 104bpm loop",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/perc%20MusicBox%20C6%20104bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 104,
+          "category": "perc"
+        },
+        {
+          "id": "pack-01-e-dur-100-perc-wobbler-aggro-12-wav",
+          "name": "perc Wobbler Aggro 12",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/perc%20Wobbler%20Aggro%2012.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-01-e-dur-100-snare-clap-ar70sopen-v105-2-wav",
+          "name": "snare Clap AR70sOpen V105 2",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/snare%20Clap%20AR70sOpen%20V105%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-snare-snare-909-5-wav",
+          "name": "snare Snare 909 5",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/snare%20Snare%20909%205.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-01-e-dur-100-snare-snare-deebounce-2-wav",
+          "name": "snare Snare DeeBounce 2",
+          "url": "/soundbank/Pack%2001%20%C2%B7%20E%20dur%20%C2%B7%20100/snare%20Snare%20DeeBounce%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        }
+      ]
+    },
+    {
+      "name": "Pack 02 · D moll · 95",
+      "color": "#818cf8",
+      "samples": [
+        {
+          "id": "pack-02-d-moll-95-000-break-kick-wav",
+          "name": "000 break kick",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/000%20break%20kick.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-011-hh3snare1-wav",
+          "name": "011 hh3snare1",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/011%20hh3snare1.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-bongo03-130-10-wav",
+          "name": "Bongo03 130 10",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Bongo03%20130%2010.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-02-d-moll-95-chord-epnbass-8-wav",
+          "name": "Chord EPnBass 8",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Chord%20EPnBass%208.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-02-d-moll-95-clavinet-wah-f2-wav",
+          "name": "Clavinet Wah F2",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Clavinet%20Wah%20F2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-crackbass-c1-wav",
+          "name": "CrackBass C1",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/CrackBass%20C1.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-02-d-moll-95-e-guitar-long-c4-2-98bpm-loop-wav",
+          "name": "E Guitar Long C4 2 98bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/E%20Guitar%20Long%20C4%202%2098bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 98,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-e-piano-1-c4-98bpm-loop-wav",
+          "name": "E Piano 1 C4 98bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/E%20Piano%201%20C4%2098bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 98,
+          "category": "melody"
+        },
+        {
+          "id": "pack-02-d-moll-95-e-piano-1-e6-wav",
+          "name": "E Piano 1 E6",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/E%20Piano%201%20E6.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "pack-02-d-moll-95-electricbass2-c4-2-97bpm-loop-wav",
+          "name": "ElectricBass2 C4 2 97bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/ElectricBass2%20C4%202%2097bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 97,
+          "category": "bass"
+        },
+        {
+          "id": "pack-02-d-moll-95-electricbass2-c4-97bpm-loop-wav",
+          "name": "ElectricBass2 C4 97bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/ElectricBass2%20C4%2097bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 97,
+          "category": "bass"
+        },
+        {
+          "id": "pack-02-d-moll-95-fontom-african-1-v3-wav",
+          "name": "FonTom African 1 V3",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/FonTom%20African%201%20V3.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-02-d-moll-95-honky-piano-c4-99bpm-loop-wav",
+          "name": "Honky Piano C4 99bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Honky%20Piano%20C4%2099bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 99,
+          "category": "melody"
+        },
+        {
+          "id": "pack-02-d-moll-95-if-acouglitchchop-170-06-wav",
+          "name": "IF AcouGlitchChop 170 06",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/IF%20AcouGlitchChop%20170%2006.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-if-acouglitchchop-95-02-95bpm-loop-wav",
+          "name": "IF AcouGlitchChop 95 02 95bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/IF%20AcouGlitchChop%2095%2002%2095bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 95,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-if-acouglitchchop-95-13-96bpm-loop-wav",
+          "name": "IF AcouGlitchChop 95 13 96bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/IF%20AcouGlitchChop%2095%2013%2096bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 96,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-jay-bass-lite-v3-c1-2-98bpm-loop-wav",
+          "name": "Jay Bass Lite V3 C1 2 98bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Jay%20Bass%20Lite%20V3%20C1%202%2098bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 98,
+          "category": "bass"
+        },
+        {
+          "id": "pack-02-d-moll-95-kick-tsdrums-29-wav",
+          "name": "Kick TSDrums 29",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Kick%20TSDrums%2029.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-lick-synth-bouncearp-7-wav",
+          "name": "Lick Synth BounceArp 7",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Lick%20Synth%20BounceArp%207.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "melody"
+        },
+        {
+          "id": "pack-02-d-moll-95-male-choir-a-2-97bpm-loop-wav",
+          "name": "Male Choir A 2 97bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Male%20Choir%20A%202%2097bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 97,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-mixed-choir-d2-96bpm-loop-wav",
+          "name": "Mixed Choir D2 96bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Mixed%20Choir%20D2%2096bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 96,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-openhh-absynth-a-1-wav",
+          "name": "OpenHH Absynth A 1",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/OpenHH%20Absynth%20A%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-sfx-crime-2-wav",
+          "name": "SFX Crime 2",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/SFX%20Crime%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-sfx-galacticsoul-2-96bpm-loop-wav",
+          "name": "SFX GalacticSoul 2 96bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/SFX%20GalacticSoul%202%2096bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 96,
+          "category": "fx"
+        },
+        {
+          "id": "pack-02-d-moll-95-sfx-intramech-wav",
+          "name": "SFX Intramech",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/SFX%20Intramech.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-02-d-moll-95-sfx-tothepan-wav",
+          "name": "SFX ToThePan",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/SFX%20ToThePan.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-02-d-moll-95-synth-nitemareflutechord-98bpm-loop-wav",
+          "name": "SYNTH NitemareFluteChord 98bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/SYNTH%20NitemareFluteChord%2098bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 98,
+          "category": "melody"
+        },
+        {
+          "id": "pack-02-d-moll-95-snare-thinking-4-wav",
+          "name": "Snare Thinking 4",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Snare%20Thinking%204.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-snare-unskool-3-wav",
+          "name": "Snare UnSkool 3",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Snare%20UnSkool%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-subbass4-c7-2-99bpm-loop-wav",
+          "name": "SubBass4 c7 2 99bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/SubBass4%20c7%202%2099bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 99,
+          "category": "bass"
+        },
+        {
+          "id": "pack-02-d-moll-95-tom-swinger-wav",
+          "name": "Tom Swinger",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Tom%20Swinger.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-02-d-moll-95-trash-guitar-long-bb1-2-99bpm-loop-wav",
+          "name": "Trash Guitar Long Bb1 2 99bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Trash%20Guitar%20Long%20Bb1%202%2099bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 99,
+          "category": "misc"
+        },
+        {
+          "id": "pack-02-d-moll-95-vocal-d2-eee-96bpm-loop-wav",
+          "name": "Vocal D2 Eee 96bpm loop",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Vocal%20D2%20Eee%2096bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 96,
+          "category": "vox"
+        },
+        {
+          "id": "pack-02-d-moll-95-vocal-hot-wav",
+          "name": "Vocal Hot",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Vocal%20Hot.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-02-d-moll-95-vocal-yeah-4-wav",
+          "name": "Vocal Yeah 4",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/Vocal%20Yeah%204.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-02-d-moll-95-hat-openhh-mmmkay-wav",
+          "name": "hat OpenHH MmmKay",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/hat%20OpenHH%20MmmKay.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-kick-kick-runzel-sub-wav",
+          "name": "kick Kick Runzel Sub",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/kick%20Kick%20Runzel%20Sub.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-kick-kick-xor-sub-wav",
+          "name": "kick Kick XOR Sub",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/kick%20Kick%20XOR%20Sub.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-02-d-moll-95-perc-galbanum09-130-10-wav",
+          "name": "perc Galbanum09 130 10",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/perc%20Galbanum09%20130%2010.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-02-d-moll-95-perc-galbanum19-130-63-wav",
+          "name": "perc Galbanum19 130 63",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/perc%20Galbanum19%20130%2063.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-02-d-moll-95-perc-galbanum33-128-12-wav",
+          "name": "perc Galbanum33 128 12",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/perc%20Galbanum33%20128%2012.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-02-d-moll-95-perc-mutetri-dusty-2-wav",
+          "name": "perc MuteTri Dusty 2",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/perc%20MuteTri%20Dusty%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-02-d-moll-95-perc-vocal-dusty-wav",
+          "name": "perc Vocal Dusty",
+          "url": "/soundbank/Pack%2002%20%C2%B7%20D%20moll%20%C2%B7%2095/perc%20Vocal%20Dusty.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        }
+      ]
+    },
+    {
+      "name": "Pack 03 · F# dur · 105",
+      "color": "#e879f9",
+      "samples": [
+        {
+          "id": "pack-03-f-dur-105-basszap-gb1-bonaparte-wav",
+          "name": "BassZap Gb1 Bonaparte",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/BassZap%20Gb1%20Bonaparte.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-03-f-dur-105-drum-break74-105bpm-105bpm-loop-wav",
+          "name": "Drum Break74(105BPM) 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Drum%20Break74(105BPM)%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "misc"
+        },
+        {
+          "id": "pack-03-f-dur-105-glitch-liebing-1-wav",
+          "name": "Glitch Liebing 1",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Glitch%20Liebing%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-03-f-dur-105-impact-tranceformer-2-105bpm-loop-wav",
+          "name": "Impact Tranceformer 2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Impact%20Tranceformer%202%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "fx"
+        },
+        {
+          "id": "pack-03-f-dur-105-mm-bass-amped-lite-v1-f-3-wav",
+          "name": "MM Bass Amped Lite V1 F 3",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/MM%20Bass%20Amped%20Lite%20V1%20F%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-03-f-dur-105-piano-3-gb0-2-105bpm-loop-wav",
+          "name": "Piano 3 Gb0 2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Piano%203%20Gb0%202%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "melody"
+        },
+        {
+          "id": "pack-03-f-dur-105-pre-bass-lite-v3-a2-105bpm-loop-wav",
+          "name": "Pre Bass Lite V3 A2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Pre%20Bass%20Lite%20V3%20A2%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "bass"
+        },
+        {
+          "id": "pack-03-f-dur-105-sfx-bounceup-wav",
+          "name": "SFX BounceUp",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/SFX%20BounceUp.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-03-f-dur-105-sfx-eeprom-3-wav",
+          "name": "SFX Eeprom 3",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/SFX%20Eeprom%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-03-f-dur-105-sfx-lazedoff-105bpm-loop-wav",
+          "name": "SFX LazedOff 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/SFX%20LazedOff%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "fx"
+        },
+        {
+          "id": "pack-03-f-dur-105-sfx-riccoshot-wav",
+          "name": "SFX RiccoShot",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/SFX%20RiccoShot.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-03-f-dur-105-shaker-ruggednraw-2-wav",
+          "name": "Shaker RuggedNRaw 2",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Shaker%20RuggedNRaw%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-snare-subterra-1-wav",
+          "name": "Snare Subterra 1",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Snare%20Subterra%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-subbass3-f-2-105bpm-loop-wav",
+          "name": "SubBass3 f 2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/SubBass3%20f%202%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "bass"
+        },
+        {
+          "id": "pack-03-f-dur-105-swell-risenshinefx-1-105bpm-loop-wav",
+          "name": "Swell RiseNShineFX 1 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Swell%20RiseNShineFX%201%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "fx"
+        },
+        {
+          "id": "pack-03-f-dur-105-vocal-dogword-5-wav",
+          "name": "Vocal DogWord 5",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Vocal%20DogWord%205.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-03-f-dur-105-vocal-fantasy-wav",
+          "name": "Vocal Fantasy",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Vocal%20Fantasy.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-03-f-dur-105-vox-high-eb2-105bpm-loop-wav",
+          "name": "Vox High Eb2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Vox%20High%20Eb2%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "vox"
+        },
+        {
+          "id": "pack-03-f-dur-105-vox-high-eb2-2-105bpm-loop-wav",
+          "name": "Vox High Eb2 2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Vox%20High%20Eb2%202%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "vox"
+        },
+        {
+          "id": "pack-03-f-dur-105-vox-high-gb3-2-105bpm-loop-wav",
+          "name": "Vox High Gb3 2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Vox%20High%20Gb3%202%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "vox"
+        },
+        {
+          "id": "pack-03-f-dur-105-vox-low-a4-2-105bpm-loop-wav",
+          "name": "Vox Low A4 2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Vox%20Low%20A4%202%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "vox"
+        },
+        {
+          "id": "pack-03-f-dur-105-vox-low-a5-105bpm-loop-wav",
+          "name": "Vox Low A5 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/Vox%20Low%20A5%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "vox"
+        },
+        {
+          "id": "pack-03-f-dur-105-wp-templebell-110-02-109bpm-loop-wav",
+          "name": "WP TempleBell 110 02 109bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/WP%20TempleBell%20110%2002%20109bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 109,
+          "category": "misc"
+        },
+        {
+          "id": "pack-03-f-dur-105-hat-closedhh-80selectro-2-wav",
+          "name": "hat ClosedHH 80sElectro 2",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/hat%20ClosedHH%2080sElectro%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-hat-pedalhh-ar70sopen-v65-2-wav",
+          "name": "hat PedalHH AR70sOpen V65 2",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/hat%20PedalHH%20AR70sOpen%20V65%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-hat-revopenhh-propeller-wav",
+          "name": "hat RevOpenHH Propeller",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/hat%20RevOpenHH%20Propeller.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-kick-kick-androgyny-1-wav",
+          "name": "kick Kick Androgyny 1",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/kick%20Kick%20Androgyny%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-kick-kick-asylum-1-wav",
+          "name": "kick Kick Asylum 1",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/kick%20Kick%20Asylum%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-kick-kick-motherboard-2-105bpm-loop-wav",
+          "name": "kick Kick Motherboard 2 105bpm loop",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/kick%20Kick%20Motherboard%202%20105bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 105,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-kick-kick-shave-5-wav",
+          "name": "kick Kick Shave 5",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/kick%20Kick%20Shave%205.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-kick-kick-together-2-wav",
+          "name": "kick Kick Together 2",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/kick%20Kick%20Together%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-perc-conga-shuffle-3-wav",
+          "name": "perc Conga Shuffle 3",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/perc%20Conga%20Shuffle%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-03-f-dur-105-perc-galbanum01-130-38-wav",
+          "name": "perc Galbanum01 130 38",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/perc%20Galbanum01%20130%2038.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-03-f-dur-105-perc-galbanum25-128-09-wav",
+          "name": "perc Galbanum25 128 09",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/perc%20Galbanum25%20128%2009.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-03-f-dur-105-perc-strike-smackit-1-wav",
+          "name": "perc Strike SmackIt 1",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/perc%20Strike%20SmackIt%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-03-f-dur-105-perc-step-wasser-2-wav",
+          "name": "perc step wasser 2",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/perc%20step%20wasser%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-03-f-dur-105-snare-clap-grimetime-3-wav",
+          "name": "snare Clap GrimeTime 3",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/snare%20Clap%20GrimeTime%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-03-f-dur-105-snare-snare-subterra-2-wav",
+          "name": "snare Snare Subterra 2",
+          "url": "/soundbank/Pack%2003%20%C2%B7%20F%23%20dur%20%C2%B7%20105/snare%20Snare%20Subterra%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        }
+      ]
+    },
+    {
+      "name": "Pack 04 · G moll · 90",
+      "color": "#f472b6",
+      "samples": [
+        {
+          "id": "pack-04-g-moll-90-b3-basic-fast-c2-93bpm-loop-wav",
+          "name": "B3 Basic Fast C2 93bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/B3%20Basic%20Fast%20C2%2093bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 93,
+          "category": "misc"
+        },
+        {
+          "id": "pack-04-g-moll-90-cbass-pizzi-31-90bpm-loop-wav",
+          "name": "CBass Pizzi 31 90bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/CBass%20Pizzi%2031%2090bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 90,
+          "category": "bass"
+        },
+        {
+          "id": "pack-04-g-moll-90-chord-epnbass-7-wav",
+          "name": "Chord EPnBass 7",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Chord%20EPnBass%207.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-04-g-moll-90-clap-fullycharged-1-wav",
+          "name": "Clap FullyCharged 1",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Clap%20FullyCharged%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-conga03-100-10-wav",
+          "name": "Conga03 100 10",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Conga03%20100%2010.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-fx-stepsoutofdarkness-90bpm-loop-wav",
+          "name": "FX StepsOutOfDarkness 90bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/FX%20StepsOutOfDarkness%2090bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 90,
+          "category": "fx"
+        },
+        {
+          "id": "pack-04-g-moll-90-floortom-909x-wav",
+          "name": "FloorTom 909X",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/FloorTom%20909X.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-impact-flexer-92bpm-loop-wav",
+          "name": "Impact Flexer 92bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Impact%20Flexer%2092bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 92,
+          "category": "fx"
+        },
+        {
+          "id": "pack-04-g-moll-90-kick-lazerbeamz-1-wav",
+          "name": "Kick LazerBeamz 1",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Kick%20LazerBeamz%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-kick-morrison-3-wav",
+          "name": "Kick Morrison 3",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Kick%20Morrison%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-kick-qlounge-2-92bpm-loop-wav",
+          "name": "Kick QLounge 2 92bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Kick%20QLounge%202%2092bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 92,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-lick-synth-90-7mile-3-91bpm-loop-wav",
+          "name": "Lick Synth 90 7Mile 3 91bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Lick%20Synth%2090%207Mile%203%2091bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 91,
+          "category": "melody"
+        },
+        {
+          "id": "pack-04-g-moll-90-noise-nomad-wav",
+          "name": "Noise Nomad",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Noise%20Nomad.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-04-g-moll-90-ppgchoir-c3-92bpm-loop-wav",
+          "name": "PPGChoir c3 92bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/PPGChoir%20c3%2092bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 92,
+          "category": "misc"
+        },
+        {
+          "id": "pack-04-g-moll-90-ridebell-pop-94bpm-loop-wav",
+          "name": "RideBell Pop 94bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/RideBell%20Pop%2094bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 94,
+          "category": "misc"
+        },
+        {
+          "id": "pack-04-g-moll-90-sfx-invertebrate-2-92bpm-loop-wav",
+          "name": "SFX Invertebrate 2 92bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/SFX%20Invertebrate%202%2092bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 92,
+          "category": "fx"
+        },
+        {
+          "id": "pack-04-g-moll-90-sfx-lazerbeamz-1-wav",
+          "name": "SFX LazerBeamz 1",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/SFX%20LazerBeamz%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-04-g-moll-90-sfx-workshop-3-wav",
+          "name": "SFX Workshop 3",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/SFX%20Workshop%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-04-g-moll-90-sfx-workshop-4-wav",
+          "name": "SFX Workshop 4",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/SFX%20Workshop%204.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-04-g-moll-90-synth-alphajunobloep-91bpm-loop-wav",
+          "name": "SYNTH AlphaJunoBloep 91bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/SYNTH%20AlphaJunoBloep%2091bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 91,
+          "category": "melody"
+        },
+        {
+          "id": "pack-04-g-moll-90-snare-central-v5-wav",
+          "name": "Snare Central V5",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Snare%20Central%20V5.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-subbass-dastreets-wav",
+          "name": "SubBass DaStreets",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/SubBass%20DaStreets.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-04-g-moll-90-vocal-blam-wav",
+          "name": "Vocal Blam",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Vocal%20Blam.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-04-g-moll-90-vocal-d4-ahhvib-92bpm-loop-wav",
+          "name": "Vocal D4 AhhVib 92bpm loop",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Vocal%20D4%20AhhVib%2092bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 92,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-vocal-hitit-wav",
+          "name": "Vocal HitIt",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/Vocal%20HitIt.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-04-g-moll-90-hat-closedhh-lazerbeamz-1-wav",
+          "name": "hat ClosedHH LazerBeamz 1",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/hat%20ClosedHH%20LazerBeamz%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-jungle4kick2-wav",
+          "name": "jungle4kick2",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/jungle4kick2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-kick-kick-clp-2-wav",
+          "name": "kick Kick CLP 2",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/kick%20Kick%20CLP%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-04-g-moll-90-perc-0245-step-sand-wav",
+          "name": "perc 0245 step sand",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/perc%200245%20step%20sand.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-perc-buzz-funkstorung-b-1-wav",
+          "name": "perc Buzz Funkstorung B 1",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/perc%20Buzz%20Funkstorung%20B%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-perc-fifth-craftman-wav",
+          "name": "perc Fifth Craftman",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/perc%20Fifth%20Craftman.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-perc-galbanum35-128-11-wav",
+          "name": "perc Galbanum35 128 11",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/perc%20Galbanum35%20128%2011.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-perc-tom-pellebuys-2-wav",
+          "name": "perc Tom PelleBuys 2",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/perc%20Tom%20PelleBuys%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-perc-udu-indian-2-v2-wav",
+          "name": "perc Udu Indian 2 V2",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/perc%20Udu%20Indian%202%20V2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-04-g-moll-90-snare-snare-reggae-wav",
+          "name": "snare Snare Reggae",
+          "url": "/soundbank/Pack%2004%20%C2%B7%20G%20moll%20%C2%B7%2090/snare%20Snare%20Reggae.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        }
+      ]
+    },
+    {
+      "name": "Pack 05 · E dur · 148",
+      "color": "#f43f5e",
+      "samples": [
+        {
+          "id": "pack-05-e-dur-148-006-hh3kick2-wav",
+          "name": "006 hh3kick2",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/006%20hh3kick2.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-05-e-dur-148-bass-africabasshigher-wav",
+          "name": "BASS AfricabassHigher",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/BASS%20AfricabassHigher.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "bass"
+        },
+        {
+          "id": "pack-05-e-dur-148-cbass-susat-32-74bpm-loop-wav",
+          "name": "CBass SusAt 32 74bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/CBass%20SusAt%2032%2074bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 74,
+          "category": "bass"
+        },
+        {
+          "id": "pack-05-e-dur-148-closedhh-submarine-wav",
+          "name": "ClosedHH Submarine",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/ClosedHH%20Submarine.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-05-e-dur-148-drone-dirtygong-74bpm-loop-wav",
+          "name": "Drone DirtyGong 74bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Drone%20DirtyGong%2074bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 74,
+          "category": "misc"
+        },
+        {
+          "id": "pack-05-e-dur-148-jay-bass-vintage-lite-v2-a2-2-147bpm-loop-wav",
+          "name": "Jay Bass Vintage Lite V2 A2 2 147bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Jay%20Bass%20Vintage%20Lite%20V2%20A2%202%20147bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 147,
+          "category": "bass"
+        },
+        {
+          "id": "pack-05-e-dur-148-lowtom-ar60slate-v108-1-wav",
+          "name": "LowTom AR60sLate V108 1",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/LowTom%20AR60sLate%20V108%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-mixed-choir-g-2-75bpm-loop-wav",
+          "name": "Mixed Choir G 2 75bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Mixed%20Choir%20G%202%2075bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 75,
+          "category": "misc"
+        },
+        {
+          "id": "pack-05-e-dur-148-mixed-choir-g1-76bpm-loop-wav",
+          "name": "Mixed Choir G1 76bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Mixed%20Choir%20G1%2076bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 76,
+          "category": "misc"
+        },
+        {
+          "id": "pack-05-e-dur-148-noise-kangding-1-wav",
+          "name": "Noise Kangding 1",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Noise%20Kangding%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-05-e-dur-148-noise-slidein-wav",
+          "name": "Noise SlideIn",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Noise%20SlideIn.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "misc"
+        },
+        {
+          "id": "pack-05-e-dur-148-noise-survival-147bpm-loop-wav",
+          "name": "Noise Survival 147bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Noise%20Survival%20147bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 147,
+          "category": "misc"
+        },
+        {
+          "id": "pack-05-e-dur-148-sfx-digidoor-wav",
+          "name": "SFX DigiDoor",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/SFX%20DigiDoor.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-05-e-dur-148-sfx-innerworks-2-wav",
+          "name": "SFX Innerworks 2",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/SFX%20Innerworks%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "fx"
+        },
+        {
+          "id": "pack-05-e-dur-148-sweep-garry-1-74bpm-loop-wav",
+          "name": "Sweep Garry 1 74bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Sweep%20Garry%201%2074bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 74,
+          "category": "fx"
+        },
+        {
+          "id": "pack-05-e-dur-148-vocal-boohoo-wav",
+          "name": "Vocal BooHoo",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Vocal%20BooHoo.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-05-e-dur-148-vocal-mamamama-wav",
+          "name": "Vocal MamaMama",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Vocal%20MamaMama.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "vox"
+        },
+        {
+          "id": "pack-05-e-dur-148-vox-high-gb4-2-147bpm-loop-wav",
+          "name": "Vox High Gb4 2 147bpm loop",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/Vox%20High%20Gb4%202%20147bpm%20loop.wav",
+          "type": "loop",
+          "bpm": 147,
+          "category": "vox"
+        },
+        {
+          "id": "pack-05-e-dur-148-hat-openhh-porter-6-wav",
+          "name": "hat OpenHH Porter 6",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/hat%20OpenHH%20Porter%206.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-05-e-dur-148-kick-kick-theretip-wav",
+          "name": "kick Kick ThereTip",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/kick%20Kick%20ThereTip.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-05-e-dur-148-kick-kick-zephat-2-wav",
+          "name": "kick Kick Zephat 2",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/kick%20Kick%20Zephat%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-buzz-system-wav",
+          "name": "perc Buzz System",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20Buzz%20System.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-floortom-homemade-wav",
+          "name": "perc FloorTom Homemade",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20FloorTom%20Homemade.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-galbanum08-128-08-wav",
+          "name": "perc Galbanum08 128 08",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20Galbanum08%20128%2008.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-galbanum24-130-04-wav",
+          "name": "perc Galbanum24 130 04",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20Galbanum24%20130%2004.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-galbanum37-128-11-wav",
+          "name": "perc Galbanum37 128 11",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20Galbanum37%20128%2011.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-hitom-thinking-2-wav",
+          "name": "perc HiTom Thinking 2",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20HiTom%20Thinking%202.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-lowroto-ar70stight-v54-wav",
+          "name": "perc LowRoto AR70sTight V54",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20LowRoto%20AR70sTight%20V54.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-perc-strike-smackit-3-wav",
+          "name": "perc Strike SmackIt 3",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/perc%20Strike%20SmackIt%203.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "perc"
+        },
+        {
+          "id": "pack-05-e-dur-148-snare-clap-lazerbeamz-wav",
+          "name": "snare Clap LazerBeamz",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/snare%20Clap%20LazerBeamz.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-05-e-dur-148-snare-snare-pendulum-1-wav",
+          "name": "snare Snare Pendulum 1",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/snare%20Snare%20Pendulum%201.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        },
+        {
+          "id": "pack-05-e-dur-148-snare-snarerim-fastplant-wav",
+          "name": "snare SnareRim Fastplant",
+          "url": "/soundbank/Pack%2005%20%C2%B7%20E%20dur%20%C2%B7%20148/snare%20SnareRim%20Fastplant.wav",
+          "type": "oneshot",
+          "bpm": null,
+          "category": "drums"
+        }
+      ]
+    },
+    {
+      "name": "Starter Pack",
+      "color": "#fb923c",
       "samples": [
         {
           "id": "starter-pack-bass-loop-120bpm-wav",

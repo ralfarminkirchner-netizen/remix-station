@@ -1,0 +1,231 @@
+{
+  "key": "E",
+  "mode": "major",
+  "bpmNorm": 148,
+  "files": [
+    {
+      "file": "CBass SusAt 32 74bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 74,
+      "pc": 4
+    },
+    {
+      "file": "Mixed Choir G 2 75bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 75,
+      "pc": 8
+    },
+    {
+      "file": "Mixed Choir G1 76bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 76,
+      "pc": 7
+    },
+    {
+      "file": "Jay Bass Vintage Lite V2 A2 2 147bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 147,
+      "pc": 9
+    },
+    {
+      "file": "Vox High Gb4 2 147bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 147,
+      "pc": 6
+    },
+    {
+      "file": "Drone DirtyGong 74bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 74,
+      "pc": null
+    },
+    {
+      "file": "Sweep Garry 1 74bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 74,
+      "pc": null
+    },
+    {
+      "file": "Noise Survival 147bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 147,
+      "pc": null
+    },
+    {
+      "file": "snare Snare Pendulum 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 100,
+      "pc": null
+    },
+    {
+      "file": "hat OpenHH Porter 6.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "snare Clap LazerBeamz.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc HiTom Thinking 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "perc FloorTom Homemade.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 93,
+      "pc": null
+    },
+    {
+      "file": "snare SnareRim Fastplant.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "006 hh3kick2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "kick Kick ThereTip.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 145,
+      "pc": null
+    },
+    {
+      "file": "kick Kick Zephat 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 99,
+      "pc": null
+    },
+    {
+      "file": "LowTom AR60sLate V108 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum08 128 08.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 88,
+      "pc": null
+    },
+    {
+      "file": "perc Buzz System.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 148,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum37 128 11.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 90,
+      "pc": null
+    },
+    {
+      "file": "perc Galbanum24 130 04.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 92,
+      "pc": null
+    },
+    {
+      "file": "perc Strike SmackIt 3.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc LowRoto AR70sTight V54.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "ClosedHH Submarine.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": 9
+    },
+    {
+      "file": "BASS AfricabassHigher.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": 11
+    },
+    {
+      "file": "Vocal MamaMama.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 94,
+      "pc": 4
+    },
+    {
+      "file": "Vocal BooHoo.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 131,
+      "pc": 9
+    },
+    {
+      "file": "Noise SlideIn.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 109,
+      "pc": null
+    },
+    {
+      "file": "Noise Kangding 1.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 97,
+      "pc": null
+    },
+    {
+      "file": "SFX Innerworks 2.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 98,
+      "pc": null
+    },
+    {
+      "file": "SFX DigiDoor.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 101,
+      "pc": null
+    }
+  ]
+}

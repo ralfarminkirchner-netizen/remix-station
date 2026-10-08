@@ -1,0 +1,322 @@
+{
+  "key": "E",
+  "mode": "major",
+  "bpmNorm": 100,
+  "files": [
+    {
+      "file": "Vocal LaLaLaLaLaLa 100bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 100,
+      "pc": 4
+    },
+    {
+      "file": "E Bass Slap E1 101bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 101,
+      "pc": 4
+    },
+    {
+      "file": "Dance Organ A5 101bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 101,
+      "pc": 9
+    },
+    {
+      "file": "Jay Bass Lite V3 A1 103bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 103,
+      "pc": 9
+    },
+    {
+      "file": "ElectricBass1 A2 103bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 103,
+      "pc": 9
+    },
+    {
+      "file": "Bell DeeBounce 103bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 103,
+      "pc": 8
+    },
+    {
+      "file": "Mixed Choir G 3 103bpm loop.wav",
+      "role": "vox",
+      "kind": "loop",
+      "bpm": 103,
+      "pc": 8
+    },
+    {
+      "file": "ElectricBass2 Eb3 104bpm loop.wav",
+      "role": "bass",
+      "kind": "loop",
+      "bpm": 104,
+      "pc": 3
+    },
+    {
+      "file": "Clavinet 1 Eb5 104bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 104,
+      "pc": 3
+    },
+    {
+      "file": "SYNTH Bellishform2 104bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 104,
+      "pc": 11
+    },
+    {
+      "file": "Trash Guitar Long D4 2 104bpm loop.wav",
+      "role": "melody",
+      "kind": "loop",
+      "bpm": 104,
+      "pc": 4
+    },
+    {
+      "file": "perc FloorTom AR70sTight V54 2 103bpm loop.wav",
+      "role": "drums",
+      "kind": "loop",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "kick Kick AR60sLate V108 2 104bpm loop.wav",
+      "role": "drums",
+      "kind": "loop",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Tom AtticStore 104bpm loop.wav",
+      "role": "drums",
+      "kind": "loop",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc MusicBox C6 104bpm loop.wav",
+      "role": "perc",
+      "kind": "loop",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "SFX Sphaere 2 101bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 101,
+      "pc": null
+    },
+    {
+      "file": "Noise TinMechs 102bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 102,
+      "pc": null
+    },
+    {
+      "file": "SFX SciFiPanel 102bpm loop.wav",
+      "role": "fx",
+      "kind": "loop",
+      "bpm": 102,
+      "pc": null
+    },
+    {
+      "file": "Kick LAXpert 3.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 93,
+      "pc": null
+    },
+    {
+      "file": "snare Snare 909 5.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Kick Doe 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Tom Gold 5.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "snare Snare DeeBounce 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "hat ClosedHH BringIt 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "snare Clap AR70sOpen V105 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "Kick Winter 2.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 99,
+      "pc": null
+    },
+    {
+      "file": "Kick Junkzion 1.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 105,
+      "pc": null
+    },
+    {
+      "file": "Kick AR70sOpen V77 3.wav",
+      "role": "drums",
+      "kind": "oneshot",
+      "bpm": 98,
+      "pc": null
+    },
+    {
+      "file": "perc Dist SharpTurn.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 138,
+      "pc": null
+    },
+    {
+      "file": "Shaker Zee.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "perc Wobbler Aggro 12.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 143,
+      "pc": null
+    },
+    {
+      "file": "Djembe12 100 10.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 103,
+      "pc": null
+    },
+    {
+      "file": "Shaker Junkzion.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    },
+    {
+      "file": "perc Bend SopranoSax.wav",
+      "role": "perc",
+      "kind": "oneshot",
+      "bpm": 93,
+      "pc": null
+    },
+    {
+      "file": "MM Bass Lite V1 D 2.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": 8
+    },
+    {
+      "file": "BityBass A0.wav",
+      "role": "bass",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": 9
+    },
+    {
+      "file": "Clavinet Wah A5 2.wav",
+      "role": "melody",
+      "kind": "oneshot",
+      "bpm": 77,
+      "pc": 9
+    },
+    {
+      "file": "Trash Guitar Long Add.wav",
+      "role": "melody",
+      "kind": "oneshot",
+      "bpm": 144,
+      "pc": 11
+    },
+    {
+      "file": "GuitarPluck G1 CLP.wav",
+      "role": "melody",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": 8
+    },
+    {
+      "file": "Vocal Kittens 1.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 117,
+      "pc": 9
+    },
+    {
+      "file": "Vocal E4 Mi.wav",
+      "role": "vox",
+      "kind": "oneshot",
+      "bpm": 93,
+      "pc": 4
+    },
+    {
+      "file": "Noise Chardro 1.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 139,
+      "pc": null
+    },
+    {
+      "file": "Glitch Sutekh 8.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 102,
+      "pc": null
+    },
+    {
+      "file": "Impact Transistor 11.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 94,
+      "pc": null
+    },
+    {
+      "file": "SFX TineDown 2.wav",
+      "role": "fx",
+      "kind": "oneshot",
+      "bpm": 104,
+      "pc": null
+    }
+  ]
+}
