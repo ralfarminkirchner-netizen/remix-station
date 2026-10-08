@@ -60,10 +60,16 @@ export function useAudioEngine(manifestSamples: SampleDef[]) {
     transportRunning,
     flashId,
     trigger,
+    play: () => engine.play(),
+    stop: () => engine.stop(),
     setBpm: (b: number) => engine.setBpm(b),
     stopAllLoops: () => engine.stopAllLoops(),
-    panicStop: () => engine.panicStop(),
+    stopLoop: (id: string) => engine.stopLoop(id),
+    panicStop: () => engine.stop(),
     setMasterVolume: (v: number) => engine.setMasterVolume(v),
     setFilter: (n: number) => engine.setFilter(n),
+    setEcho: (n: number) => engine.setEcho(n),
+    rollOn: (f: number) => engine.rollOn(f),
+    rollOff: () => engine.rollOff(),
   };
 }

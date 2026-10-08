@@ -1,22 +1,20 @@
 import { useEffect, useRef, useState } from 'react';
-import { Minus, Plus, Square, Volume2, AudioWaveform, OctagonX } from 'lucide-react';
+import { Minus, Play, Plus, Square, Volume2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Slider } from '@/components/ui/slider';
+import { cn } from '@/lib/utils';
 
 interface TransportBarProps {
   bpm: number;
   beatPhase: number;
-  transportRunning: boolean;
+  running: boolean;
+  onPlay: () => void;
+  onStop: () => void;
   onBpm: (bpm: number) => void;
-  onStopAll: () => void;
-  onPanic: () => void;
   onVolume: (v: number) => void;
-  onFilter: (n: number) => void;
 }
 
-export function TransportBar({
-  bpm, beatPhase, transportRunning, onBpm, onStopAll, onPanic, onVolume, onFilter,
-}: TransportBarProps) {
+export function TransportBar({ bpm, beatPhase, running, onPlay, onStop, onBpm, onVolume }: TransportBarProps) {
   const [, setTaps] = useState<number[]>([]);
   const tapTimeout = useRef<number>(0);
 
@@ -39,7 +37,28 @@ export function TransportBar({
   const currentBeat = Math.floor(beatPhase * 4);
 
   return (
-    <div className="flex flex-wrap items-center gap-x-5 gap-y-3 rounded-2xl border border-white/10 bg-zinc-900/70 px-4 py-3 backdrop-blur">
+    <div className="flex items-center gap-x-4 gap-y-3 rounded-2xl border border-white/10 bg-zinc-900/70 px-4 py-3 backdrop-blur">
+      {/* Play / Stop */}
+      <button
+        onPointerDown={(e) => {
+          e.preventDefault();
+          running ? onStop() : onPlay();
+        }}
+        className={cn(
+          'flex h-12 w-12 shrink-0 items-center justify-center rounded-full transition-all active:scale-90',
+          running
+            ? 'bg-rose-500 shadow-[0_0_20px_#f43f5e88] hover:bg-rose-400'
+            : 'bg-emerald-500 shadow-[0_0_20px_#10b98166] hover:bg-emerald-400',
+        )}
+        aria-label={running ? 'Stop' : 'Play'}
+      >
+        {running ? (
+          <Square className="h-5 w-5 fill-black text-black" />
+        ) : (
+          <Play className="ml-0.5 h-5 w-5 fill-black text-black" />
+        )}
+      </button>
+
       {/* Beat-Indikator */}
       <div className="flex items-center gap-1.5">
         {[0, 1, 2, 3].map((i) => (
@@ -47,26 +66,21 @@ export function TransportBar({
             key={i}
             className="h-2.5 w-2.5 rounded-full transition-colors duration-75"
             style={{
-              background:
-                transportRunning && currentBeat === i
-                  ? i === 0
-                    ? '#fb7185'
-                    : '#facc15'
-                  : '#3f3f46',
-              boxShadow: transportRunning && currentBeat === i ? '0 0 8px currentColor' : undefined,
+              background: running && currentBeat === i ? (i === 0 ? '#fb7185' : '#facc15') : '#3f3f46',
+              boxShadow: running && currentBeat === i ? '0 0 8px currentColor' : undefined,
             }}
           />
         ))}
       </div>
 
       {/* BPM */}
-      <div className="flex items-center gap-1.5">
+      <div className="flex items-center gap-1">
         <Button size="icon" variant="ghost" className="h-8 w-8" onClick={() => onBpm(bpm - 1)}>
           <Minus className="h-4 w-4" />
         </Button>
-        <div className="w-20 text-center">
+        <div className="w-16 text-center">
           <div className="text-2xl font-black tabular-nums leading-none">{bpm}</div>
-          <div className="text-[10px] uppercase tracking-widest text-zinc-500">BPM</div>
+          <div className="text-[9px] uppercase tracking-widest text-zinc-500">BPM</div>
         </div>
         <Button size="icon" variant="ghost" className="h-8 w-8" onClick={() => onBpm(bpm + 1)}>
           <Plus className="h-4 w-4" />
@@ -84,43 +98,12 @@ export function TransportBar({
         </Button>
       </div>
 
-      {/* Filter */}
-      <div className="flex min-w-36 flex-1 items-center gap-2">
-        <AudioWaveform className="h-4 w-4 shrink-0 text-zinc-400" />
-        <Slider
-          defaultValue={[100]}
-          max={100}
-          step={1}
-          onValueChange={([v]) => onFilter(v / 100)}
-          className="flex-1"
-        />
-      </div>
+      <div className="flex-1" />
 
       {/* Lautstärke */}
-      <div className="flex min-w-28 items-center gap-2">
+      <div className="flex w-32 items-center gap-2 sm:w-44">
         <Volume2 className="h-4 w-4 shrink-0 text-zinc-400" />
-        <Slider
-          defaultValue={[90]}
-          max={100}
-          step={1}
-          onValueChange={([v]) => onVolume(v / 100)}
-        />
-      </div>
-
-      {/* Stop */}
-      <div className="flex items-center gap-2">
-        <Button
-          variant="secondary"
-          size="sm"
-          className="gap-1.5"
-          onClick={onStopAll}
-          disabled={!transportRunning}
-        >
-          <Square className="h-3.5 w-3.5" /> Loops stoppen
-        </Button>
-        <Button variant="destructive" size="sm" className="gap-1.5" onClick={onPanic}>
-          <OctagonX className="h-3.5 w-3.5" /> Panic
-        </Button>
+        <Slider defaultValue={[90]} max={100} step={1} onValueChange={([v]) => onVolume(v / 100)} />
       </div>
     </div>
   );
